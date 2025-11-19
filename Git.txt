@@ -1,3 +1,3 @@
+I have modified this file
 Git is a version control system used to track changes in code or files. It lets developers save different versions of a project, collaborate safely, and roll back to previous states when needed. Git works locally on your computer.
-
 GitHub is an online platform that hosts Git repositories. It makes sharing code, collaborating with others, reviewing changes, and managing projects easier. It adds features like pull requests, issues, and teamwork tools on top of Git.
